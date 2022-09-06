@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "messageText":"Let's party!",
+    "image": "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/08/normalTime.jpg"
+},
+{
+    "id": 2,
+    "messageText": "Wake up!",
+    "image":"https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/08/partyTime.jpg"
+},
+{
+    "id": 3,
+    "messageText": "Sleep tight!",
+    "image":"https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/cat1.jpg"
+},
+{
+    "id": 4,
+    "messageText": "Good morning!",
+    "image":"https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/cat2.jpg"
+},
+{
+    "id": 5,
+    "messageText":"Good evening!",
+     "image":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Cat_sleep.jpg"
+},
+{
+    "id": 6,
+    "messageText":"Good afternoon!",
+    "image":"https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/08/normalTime.jpg"
+}
+]
+
+
+
+
+
