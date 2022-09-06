@@ -8,6 +8,12 @@ This project is created to help people who own cats or people who want to own ca
 The application uses a public **DATE API** which helps in fetching date and time in your local time.
 The application enables you to select wake up time,nap time and lunch hour time of your preference.
 
+**key concepts covered**
+
+*Functions and if-else statements*
+*Random*
+*Event listeners*
+
  **How to install and run the project**
 
 You can find the project here https://github.com/gigindunda/phase-1-final-project
