@@ -1,4 +1,4 @@
-Name of project:**LOLMEOW CLOCK**
+**PROJECT NAME:LOLMEOW CLOCK**
 
 
 **Project Description**
