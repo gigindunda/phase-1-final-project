@@ -10,9 +10,11 @@ The application enables you to select wake up time,nap time and lunch hour time 
 
 **key concepts covered**
 
-*Functions and if-else statements*
-*Random*
-*Event listeners*
+*1)Functions and if-else statements*
+
+*2)Random*
+
+*3)Event listeners*
 
  **How to install and run the project**
 
