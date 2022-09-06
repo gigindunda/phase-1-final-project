@@ -10,6 +10,6 @@ The application enables you to select wake up time,nap time and lunch hour time 
 
  **How to install and run the project**
 
-
- To run the project fork this project to your git hub account. You can now move on to to clone the project to your local machine. Move on to run the index.html with your favourite live browser.
+You can find the project here https://github.com/gigindunda/phase-1-final-project
+To run the project fork this project to your git hub account. You can now move on to to clone the project to your local machine. Move on to run the index.html with your favourite live browser.
  Cheers to having happy cat owners and happy cats.
