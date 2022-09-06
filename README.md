@@ -1,6 +1,9 @@
 **PROJECT NAME:LOLMEOW CLOCK**
 
 
+**Authour:https://github.com/gigindunda**
+
+
 **Project Description**
 
 
