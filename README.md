@@ -4,9 +4,9 @@ Name of project:**LOLMEOW CLOCK**
 **Project Description**
 
 
-This project is created to help people who own cats or people who want to own cats in future. The aim of the application is to be ale to create schedules for our cats. This will curb the problem of our cats taking so much of our time which can be used to do other important things.
+This project is created to help people who own cats or people who want to own cats in future. The aim of the application is to be able to create schedules for our cats. This will curb the problem of our cats taking so much of our time which can be used to do other important things.
 The application uses a public **DATE API** which helps in fetching date and time in your local time.
-The application enables you to select Wake up time,nap time and lunch hour time of your preference.
+The application enables you to select wake up time,nap time and lunch hour time of your preference.
 
  **How to install and run the project**
 
