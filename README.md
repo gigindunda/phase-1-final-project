@@ -1,7 +1,7 @@
 **PROJECT NAME:LOLMEOW CLOCK**
 
 
-**Authour:https://github.com/gigindunda**
+**Authour: Grace Ndunda (https://github.com/gigindunda)**
 
 
 **Project Description**
