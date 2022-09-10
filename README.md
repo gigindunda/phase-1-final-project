@@ -3,7 +3,7 @@
 
 **Authour: Grace Ndunda (https://github.com/gigindunda)**
 
-**link to website : http://127.0.0.1:5500/index.html**
+**link to website : https://gigindunda.github.io/phase-1-final-project/**
 
 
 **Project Description**
